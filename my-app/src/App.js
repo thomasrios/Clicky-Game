@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Title from "./components/Title"
+import Title from "./components/Header/Title"
 
 class App extends Component {
 
