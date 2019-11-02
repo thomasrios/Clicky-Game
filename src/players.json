@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "clicked": false,
+      "name": "LeBron James",
+      "image": "https://www.seekpng.com/png/full/29-293429_lebron-james-lebron-james-headshot.png"
+    },
+    {
+      "id": 2,
+      "clicked": false,
+      "name": "Kevin Durant",
+      "image": "https://png2.cleanpng.com/sh/e6624433d6abf6ba55b6e7a333c54e9a/L0KzQYm3V8E2N5lmkZH0aYP2gLBuTftmfppzRdZAcnHxhH65UME4OWkyhtRqLYPoccT2jr1od51pfdC2c4TkhLa0lBFzNZxqjtt3LXT4grL1lL1naZRqRadrNHK5RYftg8lkbpY8RqoDMkW6RIW4UcU0OWc7T6o7M0i1Roe1kP5o/kisspng-kevin-durant-201718-nba-season-golden-state-war-kevin-durant-face-5b4b656fc9cfe7.8825744115316678238266.png"
+    },
+    {
+      "id": 3,
+      "clicked": false,
+      "name": "Kyrie Irving",
+      "image": "https://a.espncdn.com/i/headshots/nba/players/full/6442.png"
+    },
+    {
+      "id": 4,
+      "clicked": false,
+      "name": "James Harden",
+      "image": "https://a.espncdn.com/i/headshots/nba/players/full/3992.png"
+    },
+    {
+      "id": 5,
+      "clicked": false,
+      "name": "Russel Westbrook",
+      "image": "https://s3-us-west-2.amazonaws.com/theathletic-player-headshots/nba/20000877.png?ts=1540670135"
+    },
+    {
+      "id": 6,
+      "clicked": false,
+      "name": "Anthony Davis",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6583.png"
+    },
+    {
+      "id": 7,
+      "clicked": false,
+      "name": "Kawhi Leonard",
+      "image": "https://s3-us-west-2.amazonaws.com/theathletic-player-headshots/nba/20000646.png?ts=1540669229"
+    },
+    {
+      "id": 8,
+      "clicked": false,
+      "name": "Paul George",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4251.png&w=350&h=254"
+    },
+    {
+      "id": 9,
+      "clicked": false,
+      "name": "Giannis",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png"
+    },
+    {
+      "id": 10,
+      "clicked": false,
+      "name": "Stephen Curry",
+      "image": "http://sportsnewsinstant.com/wp-content/uploads/2018/03/3975.png"
+    },
+    {
+      "id": 11,
+      "clicked": false,
+      "name": "Damian Lillard",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6606.png"
+    },
+    {
+      "id": 12,
+      "clicked": false,
+      "name": "Pascal Siakam",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3149673.png"
+    }
+  ]  
